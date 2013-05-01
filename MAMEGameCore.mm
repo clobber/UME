@@ -27,7 +27,7 @@
 
 #import "MAMEGameCore.h"
 #import <OpenEmuBase/OERingBuffer.h>
-#import "OEGBASystemResponderClient.h"
+#import "OEArcadeSystemResponderClient.h"
 #import <OpenGL/gl.h>
 
 @interface MAMEGameCore () <OEArcadeSystemResponderClient>
